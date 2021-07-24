@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=muhamdasim&show_icons=true&theme=dracula">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=muhamdasim&show_icons=true&theme=dark">
 
 ### Hi there :wave: I'm Muhammad Asim! 
 
