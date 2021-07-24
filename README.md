@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sidparashar2001&show_icons=true&theme=dracula">
 
-<!--
-**muhamdasim/muhamdasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there :wave: I'm Muhammad Asim! 
 
-Here are some ideas to get you started:
+I'm a computer science student who is passionate about writing code, solving problems, mentoring students and Frontend Projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a CS student at FAST NATIONAL UNIVERSITY OF COMPUTER & EMERGING SCIENCES .
+- 📚 Founder & CEO at CODEAZA.
+- 🔭 I'm currently working in the field of Web Scraping, Web Automation, Data Analysis & Visulization.
+- 🔭 I'm an Automation Engineer, I have been doing automations in the field of trading, commerce & businesses.
+- 👯 I’m helping small & medium scale businesses to grow with the use of data. Data is King. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhamdasim) | [Gmail](mailto:muhamdasim.business@gmail.com) | 
+
+⭐️ From [muhamdasim](https://github.com/muhamdasim)
