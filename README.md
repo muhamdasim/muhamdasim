@@ -4,7 +4,6 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, mentoring students and Frontend Projects.
 
-- 🔭 I’m currently a CS student at FAST NATIONAL UNIVERSITY OF COMPUTER & EMERGING SCIENCES .
 - 🔭 I'm currently working in the field of Web Scraping, Web Automation, Data Analysis & Visulization.
 - 🔭 I'm an Automation Engineer, I have been doing automations in the field of trading, commerce & businesses.
 - 👯 I’m helping small & medium scale businesses to grow with the use of data. Data is King. 
