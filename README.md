@@ -2,7 +2,6 @@
 
 ### Hi there :wave: I'm Muhammad Asim! 
 
-I'm a computer science student who is passionate about writing code, solving problems, mentoring students and Frontend Projects.
 
 - 🔭 I'm currently working in the field of Web Scraping, Web Automation, Data Analysis & Visulization.
 - 🔭 I'm an Automation Engineer, I have been doing automations in the field of trading, commerce & businesses.
